@@ -14,8 +14,8 @@ development:
   reconnect: false
   database: ambient-blend_development
   pool: 5
-  username: amblnd
-  password: amblnd
+  username: root
+  password: gamepro4657
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
@@ -27,8 +27,8 @@ test:
   reconnect: false
   database: ambient-blend_test
   pool: 5
-  username: amblnd
-  password: amblnd
+  username: root
+  password: gamepro4657
   host: localhost
 
 production:

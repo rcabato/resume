@@ -23,6 +23,9 @@ h6 {
 
 .topnav {
     font-size: 14px;
+    color: #f8f8f8;
+    background-color:#56422B;
+    border-color: #56422B;
 }
 
 .lead {
@@ -35,7 +38,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(http://ironsummitmedia.github.io/startbootstrap-landing-page/img/intro-bg.jpg) no-repeat center center;
+    background: url('http://i1077.photobucket.com/albums/w464/Rey_Matthew_Cabato/central_zpsnlvvptsq.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -94,11 +97,12 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #5F96E9;
 }
 
 .content-section-b {
     padding: 50px 0;
+    background-color: #77654E;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -115,6 +119,7 @@ h6 {
 
 .banner {
     padding: 100px 0;
+    background-color: #77654E;
     color: #f8f8f8;
     background: url(http://ironsummitmedia.github.io/startbootstrap-landing-page/img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
